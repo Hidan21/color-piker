@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "selector de colores",
+  "description": "Selecciona cualquier color en la página web con un solo click guardando los datos en el localstorage",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "imagenes/icon-32.png"
+  },
+  "icons": {
+    "32": "imagenes/icon-32.png",
+    "48": "imagenes/icon-48.png",
+    "128": "imagenes/icon-128.png"
+  }
+}
